@@ -1,0 +1,4 @@
+# Local rendering intermediates; final media are tracked.
+/.assembly-meshes/
+__pycache__/
+*.log
